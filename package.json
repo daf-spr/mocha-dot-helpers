@@ -1,6 +1,6 @@
 {
   "name": "mocha-dot-helpers",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "description": "A set of helpers to use with mocha",
   "main": "index.js",
   "scripts": {
