@@ -1,0 +1,18 @@
+{
+  "name": "mocha-dot-helpers",
+  "version": "1.0.0",
+  "description": "A set of helpers to use with mocha",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha tests/"
+  },
+  "author": "Damian Fortuna",
+  "license": "MIT",
+  "dependencies": {
+    "bluebird": "^3.1.1"
+  },
+  "devDependencies": {
+    "chai": "^3.4.1",
+    "mocha": "^2.3.4"
+  }
+}
